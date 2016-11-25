@@ -16,6 +16,6 @@
     "license":"MIT",
     "minimum-stability":"dev",
     "autoload":{
-        "psr4-":{"agr\\hello\\":"src/agr/hello"}
+        "psr-4":{"agr\\hello\\":"src/agr/hello"}
     }
 }
